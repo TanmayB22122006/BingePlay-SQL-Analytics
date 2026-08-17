@@ -50,7 +50,7 @@ BingePlay Streaming Analytics Project
 **Tanmay Purushottam Bokade**  
 *Computer Engineering Student | Tech & Data Enthusiast*
 Let's connect and talk about data, tech, and building cool things!
-* 💼 **LinkedIn:** [Insert your LinkedIn URL]
-* 🐙 **GitHub:** [Insert your GitHub Profile URL]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/tanmay-bokade-210280345/
+* 🐙 **GitHub:** https://github.com/TanmayB22122006
 
 *Developed as part of a rigorous SQL analytics evaluation emphasizing data accuracy and optimal query structuring.*
